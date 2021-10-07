@@ -1,4 +1,4 @@
 # best-repo-ever
 
 changing
-new-branch-1 edit
+new-branch-2 edit
